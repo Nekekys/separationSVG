@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+svg{
+  border: 1px solid #61dafb;
+  width: 250px;
+  height: 250px;
+}
+img{
+  border: 1px solid #61dafb;
+  width: 250px;
+  height: 250px;
+}
